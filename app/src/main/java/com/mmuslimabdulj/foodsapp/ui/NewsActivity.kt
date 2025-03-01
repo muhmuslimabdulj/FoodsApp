@@ -2,7 +2,7 @@
 * Author : M Muslim Abdul J
 * */
 
-package com.mmuslimabdulj.mynews.ui
+package com.mmuslimabdulj.foodsapp.ui
 
 import android.os.Bundle
 import android.webkit.WebView
@@ -12,8 +12,8 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.mmuslimabdulj.mynews.R
-import com.mmuslimabdulj.mynews.util.Constans
+import com.mmuslimabdulj.foodsapp.R
+import com.mmuslimabdulj.foodsapp.util.Constans
 import com.squareup.picasso.Picasso
 
 class NewsActivity : AppCompatActivity() {

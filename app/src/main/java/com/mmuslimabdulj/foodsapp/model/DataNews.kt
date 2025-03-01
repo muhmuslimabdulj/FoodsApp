@@ -2,7 +2,7 @@
 * Author : M Muslim Abdul J
 * */
 
-package com.mmuslimabdulj.mynews.model
+package com.mmuslimabdulj.foodsapp.model
 
 data class DataNews(
     var id: Int? = null,

@@ -2,7 +2,7 @@
 * Author : M Muslim Abdul J
 * */
 
-package com.mmuslimabdulj.mynews.util
+package com.mmuslimabdulj.foodsapp.util
 
 object Constans {
     var title: String? = null

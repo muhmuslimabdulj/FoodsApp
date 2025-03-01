@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.mmuslimabdulj.mynews"
+    namespace = "com.mmuslimabdulj.foodsapp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.mmuslimabdulj.mynews"
+        applicationId = "com.mmuslimabdulj.foodsapp"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

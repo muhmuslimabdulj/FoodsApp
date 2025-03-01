@@ -1,4 +1,4 @@
-package com.mmuslimabdulj.mynews;
+package com.mmuslimabdulj.foodsapp;
 
 import org.junit.Test;
 

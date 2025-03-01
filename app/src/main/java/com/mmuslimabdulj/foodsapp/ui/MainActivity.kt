@@ -2,7 +2,7 @@
 * Author : M Muslim Abdul J
 * */
 
-package com.mmuslimabdulj.mynews.ui
+package com.mmuslimabdulj.foodsapp.ui
 
 import android.os.Bundle
 import android.os.Handler
@@ -12,10 +12,10 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import androidx.viewpager2.widget.ViewPager2
-import com.mmuslimabdulj.mynews.R
-import com.mmuslimabdulj.mynews.adapter.CarouselAdapter
-import com.mmuslimabdulj.mynews.adapter.NewsAdapter
-import com.mmuslimabdulj.mynews.model.DataNews
+import com.mmuslimabdulj.foodsapp.R
+import com.mmuslimabdulj.foodsapp.adapter.CarouselAdapter
+import com.mmuslimabdulj.foodsapp.adapter.NewsAdapter
+import com.mmuslimabdulj.foodsapp.model.DataNews
 import org.json.JSONException
 import org.json.JSONObject
 import java.io.IOException

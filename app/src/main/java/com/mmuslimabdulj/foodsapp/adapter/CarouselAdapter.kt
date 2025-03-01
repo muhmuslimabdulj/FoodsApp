@@ -2,7 +2,7 @@
 * Author : M Muslim Abdul J
 * */
 
-package com.mmuslimabdulj.mynews.adapter
+package com.mmuslimabdulj.foodsapp.adapter
 
 import android.content.Intent
 import android.view.LayoutInflater
@@ -10,10 +10,10 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
-import com.mmuslimabdulj.mynews.R
-import com.mmuslimabdulj.mynews.model.DataNews
-import com.mmuslimabdulj.mynews.ui.NewsActivity
-import com.mmuslimabdulj.mynews.util.Constans
+import com.mmuslimabdulj.foodsapp.R
+import com.mmuslimabdulj.foodsapp.model.DataNews
+import com.mmuslimabdulj.foodsapp.ui.NewsActivity
+import com.mmuslimabdulj.foodsapp.util.Constans
 import com.squareup.picasso.Picasso
 
 class CarouselAdapter(private val images: List<DataNews>) :
