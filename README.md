@@ -26,3 +26,7 @@ Proyek ini dibuat untuk memenuhi tugas akademik sekaligus sebagai sarana pembela
 ## Catatan
 Proyek ini bersifat open-source untuk keperluan edukasi dan dapat dikembangkan lebih lanjut sesuai kebutuhan.
 
+## Screenshoot
+
+![SS-1](./ss1.png)
+![SS-2](./ss2.png)
